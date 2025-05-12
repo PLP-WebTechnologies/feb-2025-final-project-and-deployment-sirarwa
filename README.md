@@ -16,7 +16,7 @@ __3. Technical Specifications__
 * CSS3: Applies modern CSS3 features [e.g., Flexbox or Grid layout, transitions, animations, and media queries].
 * JavaScript: Implements interactive elements [e.g., form validation, image sliders, and dynamic content].
 * Responsive Design: The website adapts to varying screen sizes, including those of desktop computers, tablets, and mobile phones.
-* Deployment: The website is deployed to a public hosting system, Nelify. 
+* Deployment: The website is deployed to a public hosting system, Nelify <https://mrfixit.netlify.app/>
 
 __4. Website Structure.__
 The website consists of the following pages:
@@ -42,6 +42,6 @@ __6. Technologies Utilized.__
 
 __7. Deployment and Maintenance__
 The website will be deployed, using Nelify
-Link: 
+Link: https://mrfixit.netlify.app/ 
 
 Author: David Arwa. 
